@@ -1,0 +1,13 @@
+streamlit
+plotly
+folium
+speedtest-cli
+python-nmap
+requests
+psutil
+geopy
+geoip2
+dnspython
+matplotlib
+schedule
+streamlit-folium
